@@ -1,0 +1,22 @@
+{
+  "Modules": [
+    "Dashboard",
+    "Transfer",
+    "Beneficiaries",
+    "Transaction History",
+    "Maker Request",
+    "Sokin Pay",
+    "Direct Debit",
+    "Partner Portal"
+  ],
+  "BeneficirieaPageElements": [
+    "Beneficiary Name",
+    "Country",
+    "Account Number",
+    "Beneficiary ID",
+    "Currency",
+    "Account Type"
+  ],
+  "loginErrorMessage": "Invalid username and password.",
+  "welcomeMessage": "Welcome to the Dashboard"
+}
